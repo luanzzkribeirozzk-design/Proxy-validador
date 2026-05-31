@@ -1,7 +1,4 @@
 {
-  "name": "proxy-validator-vercel",
-  "version": "1.1.0",
-  "dependencies": {
-    "axios": "^1.4.0"
-  }
+  "name": "proxy-validator",
+  "version": "1.0.0"
 }
