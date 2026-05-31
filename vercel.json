@@ -1,10 +1,5 @@
 {
   "version": 2,
-  "functions": {
-    "api/check.js": {
-      "runtime": "vercel-node@latest"
-    }
-  },
   "routes": [
     { "src": "/check", "dest": "/api/check.js" }
   ]

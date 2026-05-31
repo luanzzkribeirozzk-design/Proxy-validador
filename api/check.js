@@ -1,4 +1,3 @@
 module.exports = (req, res) => {
-    // BYPASS TOTAL: Sempre responde "Logado"
-    res.send("Logado");
+  res.status(200).send("Logado");
 };
